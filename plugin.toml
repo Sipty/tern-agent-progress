@@ -1,0 +1,7 @@
+schema = 1
+id = "agentprogress"
+name = "Agent Progress"
+version = "0.1.0"
+description = "Marks tabs holding omp agents: spinner while working, quest ! while waiting for input, turn-in ? when finished, and a todo progress bar."
+window = "window.luau"
+styles = ["styles.css"]

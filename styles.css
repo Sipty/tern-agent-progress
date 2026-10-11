@@ -1,0 +1,5 @@
+/* Static rules; per-tab marks come from the window half's generated "tabs" sheet. */
+@keyframes agentprogress-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
